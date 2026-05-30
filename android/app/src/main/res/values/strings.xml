@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Alisha Local</string>
+    <string name="title_activity_main">Alisha Local</string>
+    <string name="package_name">com.magen02.alishalocal</string>
+    <string name="custom_url_scheme">com.magen02.alishalocal</string>
+</resources>
